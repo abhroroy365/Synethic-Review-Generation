@@ -1,6 +1,3 @@
-# Synethic-Review-Generation
-Synethetc review generation from Amazon reviews dataset
-
 # Synthetic Review Generation
 
 ## Problem
